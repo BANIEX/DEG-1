@@ -68,7 +68,7 @@ nav.logo{
 
 @media screen and (max-width: 610px) {
     body{
-        overflow: hidden;
+        overflow-x: hidden;
     }
     .nav-links{
         position: absolute;
